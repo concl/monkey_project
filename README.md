@@ -16,6 +16,9 @@ werus23
 # Tasks
 
 check misconceptions represented equally in training data
+
 improve few shot prompting with embeddings
+
 finetune embedding model
+
 finetune LLM misconception generator?
