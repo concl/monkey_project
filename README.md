@@ -15,9 +15,9 @@ werus23
 
 # Tasks
 
-check misconceptions represented equally in training data
+check misconceptions represented equally in training data (they are not)
 
-improve few shot prompting with embeddings
+improve few shot prompting with embeddings (did it)
 
 finetune embedding model
 
