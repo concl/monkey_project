@@ -9,6 +9,10 @@ Marissa Li
 ABigNerd
 werus23
 
+# Docs
+
+(cv-lb spreadsheet)[https://docs.google.com/spreadsheets/d/15m7-UEgd3Te7h3DRnemhhly0h5DYlFFvWIKELjPfsU0/edit?usp=sharing]
+
 # Notebooks
 
 (Use embeddings + LLMs to guess misconceptions)[https://www.kaggle.com/werus23/eedi-few-shot-w-qwen2-5-32b-instruct-awq-vllm]
