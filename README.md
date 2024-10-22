@@ -1,4 +1,4 @@
-
+8
 # monkey_project
 
 # Kaggle Usernames
@@ -28,3 +28,5 @@ improve few shot prompting with embeddings (did it)
 finetune embedding model
 
 finetune LLM misconception generator?
+
+check for duplicate misconceptions
